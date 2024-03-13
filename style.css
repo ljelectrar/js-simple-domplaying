@@ -8,6 +8,18 @@ body {
     color: black;
     background-color: antiquewhite;
     margin: 25%;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: tomato;
+}
+
+h2 {
+    text-transform: lowercase;
+    font-style: italic;
 }
 
 li {
