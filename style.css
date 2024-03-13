@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: black;
+    background-color: antiquewhite;
+    margin: 25%;
+}
+
+li {
+    color: white;
+    list-style: none;
+    margin: 1%;
+    padding: 4px 0;
+    margin-left: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.hot {
+    background-color: brown;
+}
+
+.cold {
+    background-color: aqua;
+}
